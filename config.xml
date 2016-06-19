@@ -70,5 +70,5 @@
     <icon src="Flipper\logo_android\logo192.png" qualifier="xxxhdpi" />
   </platform>
   <platform name="winphone" />
-  <icon src="icon.png" />
+  <icon src="Flipper\logo_android\logo72.png" />
 </widget>
