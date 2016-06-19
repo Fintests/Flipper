@@ -62,12 +62,12 @@
     <icon src="C:\Users\PC\Documents\GitHub\Flipper\config.xmlicon-80.png" width="80" height="80" />
   </platform>
   <platform name="android">
-    <icon src="Flipper\logo\android\logo36.png" qualifier="ldpi" />
-    <icon src="Flipper\logo\android\logo48.png" qualifier="mdpi" />
-    <icon src="Flipper\logo\android\logo72.png" qualifier="hdpi" />
-    <icon src="Flipper\logo\android\logo96.png" qualifier="xhdpi" />
-    <icon src="Flipper\logo\android\logo144.png" qualifier="xxhdpi" />
-    <icon src="Flipper\logo\android\logo192.png" qualifier="xxxhdpi" />
+    <icon src="Flipper\logo_android\logo36.png" qualifier="ldpi" />
+    <icon src="Flipper\logo_android\logo48.png" qualifier="mdpi" />
+    <icon src="Flipper\logo_android\logo72.png" qualifier="hdpi" />
+    <icon src="Flipper\logo_android\logo96.png" qualifier="xhdpi" />
+    <icon src="Flipper\logo_android\logo144.png" qualifier="xxhdpi" />
+    <icon src="Flipper\logo_android\logo192.png" qualifier="xxxhdpi" />
   </platform>
   <platform name="winphone" />
   <icon src="icon.png" />
